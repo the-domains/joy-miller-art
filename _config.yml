@@ -1,14 +1,14 @@
-layout_spectrum: 0.825274680973962
-typography_spectrum: 0.8735695444047451
+layout_spectrum: 0.012125969398766756
+typography_spectrum: 0.5241680578328669
 color:
-  brandStrength: 0.6161460599396378
-  lightness: 0.14796089055016637
-  saturation: 0.6939371332991868
-  rhythmicContrast: 0.4895242403727025
+  brandStrength: 0.5119046911131591
+  lightness: 0.7346602715551853
+  saturation: 0.8741628765128553
+  rhythmicContrast: 0.32072885520756245
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
 name: Joy Miller Art
